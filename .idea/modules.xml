@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FilesTools/FilesTools.iml" filepath="$PROJECT_DIR$/FilesTools/FilesTools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegTools/RegTools.iml" filepath="$PROJECT_DIR$/RegTools/RegTools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringTools/StringTools.iml" filepath="$PROJECT_DIR$/StringTools/StringTools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tools.iml" filepath="$PROJECT_DIR$/Tools.iml" />
+    </modules>
+  </component>
+</project>
